@@ -6,10 +6,12 @@ I’m a Mexican living in Sweden with a passion for problem solving & creativity
 
 ```
 
-`**sample**`
+General:
+
 + JavaScript
 
-Backend
+Backend:
+
 + Express
 + REST
 + HTTP/JSON/AJAX
@@ -18,13 +20,15 @@ Backend
 + Github/Netlify
 
 
-Frontend
+Frontend:
+
 + React/React Native
 + Redux
 + HTML
 + CSS/SASS/styled-components
 
-Tools and technologies
+Tools and technologies:
+
 + Visual Studio Code
 + Handlebars/Pug
 + Mocha/Chai/Jest
