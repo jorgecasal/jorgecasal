@@ -6,9 +6,7 @@ I’m a Mexican living in Sweden with a passion for problem solving & creativity
 
 ```
 
-General:
-
-+ JavaScript
+Full-Stack JavaScript Software Developer
 
 Backend:
 
