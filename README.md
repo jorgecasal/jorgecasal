@@ -1,9 +1,5 @@
 ## Hi I'm Jorge Casal
 
-<pre>
-sample <b>sample</b> sample
-</pre>
-
 I’m a Mexican living in Sweden with a passion for problem solving & creativity. Developing in a fun but challenging environment is something I really enjoy, as well as building amazing apps & services. Previously worked in restaurant and hotel management & changed careers to follow my passion for software development… and enjoy life!
 
 ### Technical skills
@@ -22,7 +18,7 @@ Backend
 + Github/Netlify
 
 
-Frontend
+*Frontend*
 + React/React Native
 + Redux
 + HTML
@@ -41,7 +37,8 @@ Tools and technologies
 
 ### Get in touch
 
-Take a look at my [portfolio](https://jorgecasal.github.io) or find me on [LinkedIn](https://www.linkedin.com/in/casaljorge/)
+Take a look at my [portfolio](https://jorgecasal.github.io) <a href="https://jorgecasal.github.io" target="_blank">portfolio</a>
+or find me on [LinkedIn](https://www.linkedin.com/in/casaljorge/)
 
 
 ### Contributing
