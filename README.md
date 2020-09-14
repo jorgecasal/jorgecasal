@@ -6,7 +6,7 @@ I’m a Mexican living in Sweden with a passion for problem solving & creativity
 
 ```
 
-General
+<b>General</b>
 + JavaScript
 
 Backend
@@ -18,7 +18,7 @@ Backend
 + Github/Netlify
 
 
-*Frontend*
+Frontend
 + React/React Native
 + Redux
 + HTML
@@ -37,8 +37,7 @@ Tools and technologies
 
 ### Get in touch
 
-Take a look at my <a target="_blank" href="https://jorgecasal.github.io">portfolio</a>
-or find me on [LinkedIn](https://www.linkedin.com/in/casaljorge/)
+Take a look at my [portfolio](https://jorgecasal.github.io) or find me on [LinkedIn](https://www.linkedin.com/in/casaljorge/)
 
 
 ### Contributing
