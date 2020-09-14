@@ -1,4 +1,4 @@
-## Hi I'm Jorge Casal 👋
+## Hi I'm Jorge Casal
 
 I’m a Mexican living in Sweden with a passion for problem solving & creativity. Developing in a fun but challenging environment is something I really enjoy, as well as building amazing apps & services. Previously worked in restaurant and hotel management & changed careers to follow my passion for software development… and enjoy life!
 
@@ -37,7 +37,7 @@ Tools and technologies
 
 ### Get in touch
 
-Take a look at my [portfolio](jorgecasal.github.io) or find me on [LinkedIn](https://www.linkedin.com/in/casaljorge/)
+Take a look at my [portfolio](https://jorgecasal.github.io) or find me on [LinkedIn](https://www.linkedin.com/in/casaljorge/)
 
 
 ### Contributing
