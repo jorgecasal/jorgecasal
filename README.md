@@ -37,7 +37,7 @@ Tools and technologies
 
 ### Get in touch
 
-Take a look at my [portfolio](https://jorgecasal.github.io) <a href="https://jorgecasal.github.io" target="_blank">portfolio</a>
+Take a look at my <a target="_blank" href="https://jorgecasal.github.io">portfolio</a>
 or find me on [LinkedIn](https://www.linkedin.com/in/casaljorge/)
 
 
