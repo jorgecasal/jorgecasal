@@ -6,7 +6,9 @@ I’m a Mexican living in Sweden with a passion for problem solving & creativity
 
 ```
 
+<pre>
 <b>General</b>
+</pre>
 + JavaScript
 
 Backend
