@@ -50,10 +50,12 @@ Tools and technologies:
 Take a look at my [portfolio](https://jorgecasal.github.io) or find me on [LinkedIn](https://www.linkedin.com/in/casaljorge/)
 
 
-### Contributing
-Pull requests are welcome in all of my projects. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate, remember that TDD is not an option, is a way of life.
+My passion is to innovate solutions while having fun and being creative.
+Some technologies I enjoy working with include ReactJS, JavaScript, APIs and Node.
 
-### License
-[MIT](https://choosealicense.com/licenses/mit/)
+Find me one click away at my:
+[Portfolio 🕺](https://jorgecasal.github.io/)
+[Blog 🏓](https://code-repo.netlify.app/)
+[LinkedIn 💼](https://www.linkedin.com/in/casaljorge/)
+[CodePen 🖊️](https://codepen.io/jorgecasal)
