@@ -1,5 +1,7 @@
 ![Black   White Pixel Web Designer Business Card (2)](https://user-images.githubusercontent.com/59342720/109818112-eceb8880-7c32-11eb-8ec8-e62d6885c61d.png)
-## Hi I'm Jorge Casal
+
+# My passion is to innovate solutions while having fun and being creative.
+# Some technologies I enjoy working with include ReactJS, JavaScript, APIs and Node.
 
 ```diff
 - text in red
@@ -14,9 +16,9 @@ I’m a Mexican living in Sweden with a passion for problem solving & creativity
 ### Technical skills
 ```diff
 
-+ Full-Stack JavaScript Software Developer
++ +Full-Stack JavaScript Software Developer
 
-+ Backend:
++ !Backend:
 
 + Express
 + REST
@@ -47,15 +49,12 @@ Tools and technologies:
 
 ### Get in touch
 
-Take a look at my [portfolio](https://jorgecasal.github.io) or find me on [LinkedIn](https://www.linkedin.com/in/casaljorge/)
-
-
-
-My passion is to innovate solutions while having fun and being creative.
-Some technologies I enjoy working with include ReactJS, JavaScript, APIs and Node.
-
 Find me one click away at my:
+
 [Portfolio 🕺](https://jorgecasal.github.io/)
+
 [Blog 🏓](https://code-repo.netlify.app/)
+
 [LinkedIn 💼](https://www.linkedin.com/in/casaljorge/)
+
 [CodePen 🖊️](https://codepen.io/jorgecasal)
