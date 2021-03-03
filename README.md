@@ -10,9 +10,9 @@
 ```
 
 I’m a Mexican living in Sweden with a passion for problem solving & creativity. Developing in a fun but challenging environment is something I really enjoy, as well as building amazing apps & services. Previously worked in restaurant and hotel management & changed careers to follow my passion for software development… and enjoy life!
-
-### Technical skills
-
+```diff
+@@ ### Technical skills
+```
 ```
 
 Full-Stack JavaScript Software Developer
