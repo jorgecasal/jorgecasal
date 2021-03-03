@@ -10,14 +10,13 @@
 ```
 
 I’m a Mexican living in Sweden with a passion for problem solving & creativity. Developing in a fun but challenging environment is something I really enjoy, as well as building amazing apps & services. Previously worked in restaurant and hotel management & changed careers to follow my passion for software development… and enjoy life!
-```diff
-@@ ### Technical skills
-```
-```
 
-Full-Stack JavaScript Software Developer
+### Technical skills
+```dif
 
-Backend:
++ Full-Stack JavaScript Software Developer
+
++ Backend:
 
 + Express
 + REST
@@ -27,7 +26,7 @@ Backend:
 + Github/Netlify
 
 
-Frontend:
++ Frontend:
 
 + React/React Native
 + Redux
