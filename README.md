@@ -1,8 +1,8 @@
 ![Black   White Pixel Web Designer Business Card (2)](https://user-images.githubusercontent.com/59342720/109818112-eceb8880-7c32-11eb-8ec8-e62d6885c61d.png)
 
 
-# My passion is to innovate solutions while having fun and being creative.
-# Some technologies I enjoy working with include ReactJS, JavaScript, APIs and Node.
+># My passion is to innovate solutions while having fun and being creative.
+># Some technologies I enjoy working with include ReactJS, JavaScript, APIs and Node.
 
 
 ### Technical skills
