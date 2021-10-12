@@ -5,6 +5,9 @@
 #### Some technologies I enjoy working with include ReactJS, JavaScript, APIs and Node.
 
 
+☑☒☐
+
+
 ```diff
 @@ Full-Stack JavaScript Software Developer @@
 
